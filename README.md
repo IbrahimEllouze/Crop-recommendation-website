@@ -92,4 +92,3 @@ View the sustainability leaderboard
 Learn from others' growing conditions
 
 Share your own predictions
-"# Crop-recommendation-website" 
